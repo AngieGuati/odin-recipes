@@ -1,0 +1,16 @@
+h1 {
+    color: rgba(10, 38, 116, 0.824);
+}
+
+h2 {
+    color: rgba(56, 104, 217, 0.8); 
+}
+
+body {
+    color: rgba(15, 8, 85, 0.713);
+    background-color: rgba(34, 140, 152, 0.458);
+}
+
+ul li {
+    margin-left: 10px;
+}
